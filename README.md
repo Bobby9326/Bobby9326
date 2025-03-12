@@ -36,13 +36,13 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Design:</h3>
 <p align="left"> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Other Tools:</h3>
@@ -52,5 +52,8 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobby9326&show_icons=true&locale=en&layout=compact&theme=dark" alt="bobby9326" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bobby9326&show_icons=true&theme=dark&layout=compact" alt="bobby9326" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bobby9326&show_icons=true&locale=en&layout=compact&theme=dark" alt="bobby9326" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bobby9326&show_icons=true&theme=dark&layout=compact" alt="bobby9326" width="48%" />
+</p>
+
