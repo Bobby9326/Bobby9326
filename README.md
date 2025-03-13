@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oak</h1>
 <h3 align="center">Exploring Code Without Limits – Learning One Step at a Time</h3>
+<div align="center">
+  <a href = "https://spotify-github-profile.kittinanx.com/api/view?uid=31j4slqrwazyzpzcqqx4y43azj54&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31j4slqrwazyzpzcqqx4y43azj54&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false" alt="bobby9326"  height="200"/></a>
+</div>
 
 - 🌱 I’m currently learning **Full-Stack Development with React (Frontend) & Node.js (Backend) 🚀**
 - 💬 Ask me about **Coding challenges and problem-solving**
