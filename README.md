@@ -5,7 +5,7 @@
   <a href = "https://spotify-github-profile.kittinanx.com/api/view?uid=31j4slqrwazyzpzcqqx4y43azj54&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31j4slqrwazyzpzcqqx4y43azj54&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false" alt="bobby9326"  height="400"/></a>
 </div>
 
-- 🌱 I’m currently learning **Full-Stack Development with React (Frontend) & Node.js (Backend) 🚀**
+- 🌱 I’m currently learning **Full-Stack Development 🚀**
 - 💬 Ask me about **Coding challenges and problem-solving**
 - 📫 How to reach me **oak.siwakorn2547@gmail.com**
 - ⚡ Fun fact **I dream of becoming a brand ambassador for Pepsi! 🥤✨**
